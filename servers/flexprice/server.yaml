@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/168305045?v=4
 source:
   project: https://github.com/flexprice/mcp-server
-  commit: 87482b1f6c185589d41257ef846dcea0c3f0669b
+  commit: 07f53c10c9319b9ed8d673e2e7cbac8a7f740abc
 config:
   description: Configure the connection to Redis
   secrets:
